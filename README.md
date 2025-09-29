@@ -1,2 +1,1 @@
-# Activity-API-Integration-Mini-Project
-AnimeFinder
+“My project is an Anime Finder App that integrates the Jikan API. The app has a search bar where the user can type any anime title, then it sends an HTTP GET request to the API. The API responds with JSON data, which my code parses to display the anime’s poster, title, release year, number of episodes, and a short synopsis. If there’s no input or no results, the app shows an error message. The main idea is to demonstrate how to fetch data from a RESTful API and display it in a user-friendly format.”
